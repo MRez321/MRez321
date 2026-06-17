@@ -1,10 +1,3 @@
-# 👋 Hey there! I'm Reza Mousavi
-
-**Front-End Developer** | React Enthusiast | Crafting Modern, Responsive Web Experiences
-
-![Profile Banner](https://via.placeholder.com/1200x300/1e3a8a/ffffff?text=Front-End+Developer+%7C+React+%26+Modern+UI)  
-*(Replace with your own banner image URL – e.g., a sleek tech-themed GIF or photo)*
-
 ## 🚀 About Me
 
 Passionate **Front-End Developer** with hands-on experience in designing and implementing modern, user-friendly, and fully responsive interfaces. Proficient in **React**, **HTML/CSS/JavaScript**, and **TypeScript**. I specialize in transforming UI/UX designs into optimized, fast, and cross-device compatible websites.
