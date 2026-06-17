@@ -26,32 +26,6 @@ I'm always eager to learn new technologies, continuously improve my skills, and 
 - **Node.js** • **Express.js**
 - **MongoDB** • **MySQL**
 
-### Tools & Others
-- **WebStorm** • **NPM** • **Vite** • **Git** • **GitHub**
-- **Chart.js** • **WordPress** • **SEO Optimization**
-- **Authentication** Systems
-
-**Languages**: English (Intermediate B2)
-
-**Soft Skills**: Problem-Solving, Team Collaboration, Time Management, Report Writing
-
-## 📜 Courses & Certifications
-
-- **Front-End Developer Course** – Tehran Technical Complex
-- **The Web Developer Bootcamp** – Colt Steele (Udemy)
-- **JavaScript Pro** – Colt Steele (Udemy)
-- **Mastering TypeScript** – Colt Steele (Udemy)
-- **React – The Complete Guide** – Maximilian Schwarzmüller (Udemy)
-
-## 💼 Professional Experience
-
-### Baharman Collection (Qom)
-**Online Store & Corporate Website**
-
-- Developed responsive e-commerce interfaces using **React + REST API**
-- Built admin dashboard with **Chart.js**, authentication, and management features
-- Designed and optimized corporate website with **HTML/CSS/JavaScript**
-- Implemented **WordPress** customizations and **SEO** improvements
 
 ## 🌟 Featured Projects
 *(Add links to your GitHub repos here – make them pop with screenshots!)*
@@ -74,7 +48,7 @@ I'm actively seeking new opportunities in front-end development where I can cont
 [![GitHub](https://img.shields.io/badge/GitHub-MRez321-black?style=for-the-badge&logo=github)](https://github.com/MRez321)
 [![Email](https://img.shields.io/badge/Email-MRez321%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:MRez321@gmail.com)
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️**
 
 *Animated profile views, contributions graph, and streak counters will appear here on GitHub!*
 
