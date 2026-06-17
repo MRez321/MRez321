@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Seyed Mohammad Reza Mousavi
+# 👋 Hey there! I'm Reza Mousavi
 
 **Front-End Developer** | React Enthusiast | Crafting Modern, Responsive Web Experiences
 
@@ -12,7 +12,6 @@ Passionate **Front-End Developer** with hands-on experience in designing and imp
 I'm always eager to learn new technologies, continuously improve my skills, and deliver smooth user experiences through clean, scalable, and standard-compliant code.
 
 - 📧 **Email**: [MRez321@gmail.com](mailto:MRez321@gmail.com)
-- 📱 **Phone**: 09015867713
 - 🌐 **GitHub**: [MRez321](https://github.com/MRez321)
 
 ## 🛠️ Skills & Technologies
