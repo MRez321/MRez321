@@ -32,7 +32,7 @@ I'm actively seeking new opportunities in front-end development where I can cont
 **Open to collaborations, freelance, or full-time roles!**
 
 ---
-
+ 
 <div align="center">
 
 ### Connect With Me
