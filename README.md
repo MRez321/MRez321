@@ -24,7 +24,6 @@ I'm always eager to learn new technologies, continuously improve my skills, and 
 *(Add links to your GitHub repos here – make them pop with screenshots!)*
 
 - **Project Name** – Short description + tech stack + [Live Demo](link) | [Repo](link)
-- **Another Awesome Project** – ...
 
 ## 🎨 Let's Build Something Great Together!
 
