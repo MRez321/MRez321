@@ -23,7 +23,7 @@ I'm always eager to learn new technologies, continuously improve my skills, and 
 ## 🌟 Featured Projects
 *(Add links to your GitHub repos here – make them pop with screenshots!)*
 
-- **Project Name** – Short description + tech stack + [Live Demo](https://pixelstar.ir/) | [Repo](https://github.com/MRez321/img-optimizer)
+- **PixelStar img-optimizer** – Convert & Compress Images + tech stack -> React, Node, Express + [Live Demo](https://pixelstar.ir/) | [Repo](https://github.com/MRez321/img-optimizer)
 
 ## 🎨 Let's Build Something Great Together!
 
