@@ -21,9 +21,10 @@ I'm always eager to learn new technologies, continuously improve my skills, and 
 
 
 ## 🌟 Featured Projects
-*(Add links to your GitHub repos here – make them pop with screenshots!)*
 
 - **PixelStar img-optimizer** – Convert & Compress Images + tech stack -> React, Node, Express, TypeScript + [Live Demo](https://pixelstar.ir/) | [Repo](https://github.com/MRez321/img-optimizer)
+- <img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/ca2fc8a8-cc57-49a1-ac56-7c89323af8cc" />
+
 
 ## 🎨 Let's Build Something Great Together!
 
